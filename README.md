@@ -4,16 +4,15 @@
 
 ### Create Virtual Environment
 
-In a terminal run the following commands from the root folder of the forked project. 
 
-Windows
+In a terminal run the following commands from the root folder of the forked project.
 ```
-python -m venv .\venv
+python -m venv venv
 ```
 
-macOS & Linux
+For homebrew installed Python run:
 ```
-python -m venv ./venv
+python3 -m venv venv
 ```
 
 Once that completes, also run this command from the same folder.
